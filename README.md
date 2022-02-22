@@ -24,7 +24,7 @@ I still working on this &ldquo;README.md&rdquo;...
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/JonhnataLima" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="Twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/JonhnataLima?style=flat&logo=twitter" alt="Twitter"/>  
 </a>
 
 
