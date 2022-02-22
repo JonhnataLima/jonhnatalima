@@ -48,34 +48,38 @@
         />
       </a>
     </p>
-    <p>------------- Git statistics ----------------</p>
-    <p>
-      <a href="https://github.com/jonhnatalima" target="_blank">
-        <img align="center"
-          src="https://github-readme-stats.vercel.app/api?username=jonhnatalima&theme=chartreuse-dark&show_icons=true&count_private=true"
-        alt="GitHub Stats"/>
-      </a>
-      <a href="https://github.com/jonhnatalima" target="_blank"
-        ><img align="center"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonhnatalima&theme=chartreuse-dark&layout=compact"
-        alt="Most Used Languages"/>
-      </a>
-    </p>
-    <br />
-    <br />
+
+## GitHub Analytics
+
+<p>
+  <a href="https://github.com/jonhnatalima" target="_blank">
+    <img align="center"
+      src="https://github-readme-stats.vercel.app/apusername=jonhnatalima&theme=chartreuse-darshow_icons=true&count_private=true"
+    alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/jonhnatalima" target="_blank"
+    ><img align="center"
+      src="https://github-readme-stats.vercel.app/aptop-langs/?username=jonhnatalimtheme=chartreuse-dark&layout=compact"
+    alt="Most Used Languages"/>
+  </a>
+</p>
+
 ## Repositories
-    <p>
-      <a href="https://github.com/jonhnatalima" target="_blank"
-        ><img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=jonhnatalima&repo=countdown-timer&show_owner=true&theme=chartreuse-dark"
-        alt="Repositories"/>
-      </a>
-    </p>
+
+<p>
+  <a href="https://github.com/jonhnatalima" target="_blank"
+    ><img
+      src="https://github-readme-stats.vercel.app/api/pinusername=jonhnatalima&repo=countdown-timeshow_owner=true&theme=chartreuse-dark"
+    alt="Repositories"/>
+  </a>
+</p>
+
 ## Wakatime
-    <p>
-      <a href="https://github.com/jonhnatalima" target="_blank"
-        ><img
-          src="https://github-readme-stats.vercel.app/api/wakatime?username=jonhnatalima&theme=chartreuse-dark"
-        alt="Wakatime Stats"/>
-      </a>
-    </p>
+
+<p>
+  <a href="https://github.com/jonhnatalima" target="_blank"
+    ><img
+      src="https://github-readme-stats.vercel.app/apwakatime?username=jonhnatalima&theme=chartreuse-dark"
+    alt="Wakatime Stats"/>
+  </a>
+</p>
