@@ -1,11 +1,11 @@
-<img width="200" alt="GIF" align="right" src="https://media0.giphy.com/media/TFUd6cS3rc4qcaS5T8/giphy.gif" >
+<img width="250" alt="GIF" align="right" src="https://media0.giphy.com/media/TFUd6cS3rc4qcaS5T8/giphy.gif" >
 
-<div>
-## Hey, 👋🏼 
-### I'm Jonhnata Lima!!
 
-I still working on this &lsquo;README.md&rsquo;...
-</div>
+# Hey, 👋🏼 
+## I'm Jonhnata Lima!!
+
+I still working on this &ldquo;README.md&rdquo;...
+
 
 
 
@@ -17,6 +17,28 @@ I still working on this &lsquo;README.md&rsquo;...
 - Ask me about framework Scrum, Management 3.0, Lean Inception...
 - How to reach me: ...
 - Pronouns: he/him
+  
+## 👨🏽‍🦲 &nbsp;Social Links
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/JonhnataLima?label=Follow)](https://twitter.com/intent/follow?screen_name=JonhnataLima)
+
+<p align="left" style="background:yellow">
+<a href="https://twitter.com/JonhnataLima" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="Twitter"/>  
+</a>
+
+
+<a href="https://linkedin.com/in/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/maykbrito" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://youtube.com/maykbrito" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
+</a>
+</p>
+
 
 [![Jonhnata's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonhnatalima&theme=chartreuse-dark&show_icons=true&count_private=true)](https://github.com/jonhnatalima)
 
