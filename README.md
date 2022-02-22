@@ -18,3 +18,7 @@ I still working on this README.md
 ----------------------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonhnatalima&theme=chartreuse-dark&layout=compact)](https://github.com/jonhnatalima/jonhnatalima)
+
+----------------------------
+
+[![Jonhnata's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jonhnatalima)](https://github.com/jonhnatalima/jonhnatalima)
