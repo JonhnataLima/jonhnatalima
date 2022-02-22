@@ -1,4 +1,8 @@
-### Hey!! 👋🏼
+
+### Hey, 👋🏼
+<p>I'm Jonhnata Lima!! <img src="https://giphy.com/gifs/netflix-duncan-trussell-midnight-gospel-the-TFUd6cS3rc4qcaS5T8"></p>
+
+
 I still working on this README.md
 
 <p >
