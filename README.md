@@ -11,3 +11,7 @@ I still working on this README.md
 
 ![Jonhnata's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonhnatalima&theme=dark&show_icons=true)
 
+----------------------------
+api/pin?username=jonhnatalima&repo=github-readme-stats
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonhnatalima&repo=github-readme-stats)](https://github.com/jonhnatalima/github-readme-stats)
