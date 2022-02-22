@@ -20,6 +20,13 @@ I still working on this &ldquo;README.md&rdquo;...
   
 ## 👨🏽‍🦲 &nbsp;Social Links
 
+<p align="left">
+<a href="https://twitter.com/intent/follow?screen_name=JonhnataLima" target="_blank">
+  <img align="center" src="https://img.shields.io/twitter/follow/JonhnataLima?label=Follow" alt="Twitter">
+</a>
+
+</p>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/JonhnataLima?label=Follow)](https://twitter.com/intent/follow?screen_name=JonhnataLima)
 
 [![GitHub](https://img.shields.io/github/followers/jonhnatalima?style=social)](https://github.com/jonhnatalima)
