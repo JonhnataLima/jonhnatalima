@@ -27,6 +27,8 @@ I still working on this &ldquo;README.md&rdquo;...
 
 [![GitHub](https://img.shields.io/github/followers/jonhnatalima?style=social)](https://github.com/jonhnatalima)
 
+
+
 </p>
 
 
@@ -36,15 +38,13 @@ I still working on this &ldquo;README.md&rdquo;...
 </a>
 
 
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://linkedin.com/in/jonhnatalima" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/jonhnatalima?style=flat&logo=linkedin" alt="LinkedIn"/>
 </a>
 <a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/jonhnatalima?style=flat&logo=instagram" alt="Instagram"/>
 </a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
+
 </p>
 
 
