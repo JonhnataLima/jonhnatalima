@@ -18,16 +18,15 @@ I still working on this &ldquo;README.md&rdquo;...
 - How to reach me: ...
 - Pronouns: he/him
   
-## 👨🏽‍🦲 &nbsp;Social Links
+## Social Links
 
 <p align="left">
 <a href="https://twitter.com/intent/follow?screen_name=JonhnataLima" target="_blank">
   <img align="center" src="https://img.shields.io/twitter/follow/JonhnataLima?label=Follow" alt="Twitter">
 </a>
-
-[![GitHub](https://img.shields.io/github/followers/jonhnatalima?style=social)](https://github.com/jonhnatalima)
-
-
+<a href="https://github.com/jonhnatalima" target="_blank">
+  <img align="center" src="https://img.shields.io/github/followers/jonhnatalima?style=social" alt="GitHub">
+</a>
 
 </p>
 
@@ -47,17 +46,16 @@ I still working on this &ldquo;README.md&rdquo;...
 
 </p>
 
+<div> 
+  <a href="https://github.com/jonhnatalima" target="_blank"> <img src="https://github-readme-stats.vercel.app/api?username=jonhnatalima&theme=chartreuse-dark&show_icons=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/jonhnatalima" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jonhnatalima&repo=countdown-timer&show_owner=true&theme=chartreuse-dark"/>
+  </a>
+  
+  <a href="https://github.com/jonhnatalima" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonhnatalima&theme=chartreuse-dark&layout=compact"/>
+  </a>
+  <a href="https://github.com/jonhnatalima" target="_blank"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jonhnatalima&theme=chartreuse-dark"/>
+  </a>
 
-[![Jonhnata's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonhnatalima&theme=chartreuse-dark&show_icons=true&count_private=true)](https://github.com/jonhnatalima)
+</div>
 
-----------------------------
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonhnatalima&repo=countdown-timer&show_owner=true&theme=chartreuse-dark)](https://github.com/jonhnatalima/countdown-timer)
-
-----------------------------
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonhnatalima&theme=chartreuse-dark&layout=compact)](https://github.com/jonhnatalima)
-
-----------------------------
-
-[![Jonhnata's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jonhnatalima&theme=chartreuse-dark)](https://github.com/jonhnatalima)
