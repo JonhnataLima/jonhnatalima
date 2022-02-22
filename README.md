@@ -1,11 +1,11 @@
   <body>
+    <h1>Hey, 👋🏼</h1>
     <img
       width="250"
       alt="GIF"
       align="right"
       src="https://media0.giphy.com/media/TFUd6cS3rc4qcaS5T8/giphy.gif"
     />
-    <h1>Hey, 👋🏼</h1>
     <h2>I'm Jonhnata Lima!!</h2>
     <p>I still working on this &ldquo;README.md&rdquo;...</p>
     <ul>
@@ -66,24 +66,26 @@
     <p>------------- Git statistics ----------------</p>
     <div>
       <a href="https://github.com/jonhnatalima" target="_blank">
-        <img
+        <img align="center"
           src="https://github-readme-stats.vercel.app/api?username=jonhnatalima&theme=chartreuse-dark&show_icons=true&count_private=true"
-        />
+        alt="GitHub Stats"/>
       </a>
+      <a href="https://github.com/jonhnatalima" target="_blank"
+        ><img align="center"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonhnatalima&theme=chartreuse-dark&layout=compact"
+        alt="Most Used Languages"/>
+      </a>
+    </div>
+    <div>
       <a href="https://github.com/jonhnatalima" target="_blank"
         ><img
           src="https://github-readme-stats.vercel.app/api/pin/?username=jonhnatalima&repo=countdown-timer&show_owner=true&theme=chartreuse-dark"
-        />
-      </a>
-      <a href="https://github.com/jonhnatalima" target="_blank"
-        ><img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonhnatalima&theme=chartreuse-dark&layout=compact"
-        />
+        alt="Repositories"/>
       </a>
       <a href="https://github.com/jonhnatalima" target="_blank"
         ><img
           src="https://github-readme-stats.vercel.app/api/wakatime?username=jonhnatalima&theme=chartreuse-dark"
-        />
+        alt="Wakatime Stats"/>
       </a>
     </div>
   </body>
