@@ -1,10 +1,10 @@
+<img width="200" alt="GIF" align="right" src="https://media0.giphy.com/media/TFUd6cS3rc4qcaS5T8/giphy.gif" >
 
-## Hey, 👋🏼
-### I'm Jonhnata Lima!!
+## Hey, 👋🏼 ### I'm Jonhnata Lima!!
 
 I still working on this &lsquo;README.md&rsquo;...
 
-<img width="200" alt="GIF" align="right" src="https://media0.giphy.com/media/TFUd6cS3rc4qcaS5T8/giphy.gif" >
+
 
 
 
