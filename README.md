@@ -2,7 +2,8 @@
 ### Hey, 👋🏼
 <p>I'm Jonhnata Lima!!</p>
 
-<iframe src="https://giphy.com/embed/TFUd6cS3rc4qcaS5T8" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/netflix-duncan-trussell-midnight-gospel-the-TFUd6cS3rc4qcaS5T8">via GIPHY</a></p>
+
+<p><a href="https://giphy.com/gifs/netflix-duncan-trussell-midnight-gospel-the-TFUd6cS3rc4qcaS5T8">via GIPHY</a></p>
 
 
 I still working on this README.md
