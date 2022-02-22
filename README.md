@@ -1,6 +1,8 @@
 ### Hey!! 👋🏼
 I still working on this README.md
 
+<p >
+
 - I'm currently open for a working position as JavaScript Developer
 - I'm currently learning and improve my knowledges with JavaScrip, HTML, CSS...
 - I'm looking to collaborate on...
@@ -13,7 +15,7 @@ I still working on this README.md
 
 ----------------------------
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonhnatalima&repo=countdown-timer&show_owner=true&theme=chartreuse-dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonhnatalima&repo=countdown-timer&show_owner=true&theme=chartreuse-dark)](https://github.com/jonhnatalima/countdown-timer)
 
 ----------------------------
 
