@@ -7,7 +7,7 @@
 
 I still working on this README.md
 
-<p> <img src="https://media0.giphy.com/media/TFUd6cS3rc4qcaS5T8/giphy.gif" width="50"></p
+<p> <img src="https://media0.giphy.com/media/TFUd6cS3rc4qcaS5T8/giphy.gif" width="100"></p
 
 
 - I'm currently open for a working position as JavaScript Developer
