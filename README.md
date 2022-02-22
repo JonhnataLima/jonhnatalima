@@ -11,7 +11,7 @@ I still working on this README.md
 - How to reach me: ...
 - Pronouns: he/him
 
-![Jonhnata's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonhnatalima&theme=chartreuse-dark&show_icons=true&count_private=true)
+[![Jonhnata's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonhnatalima&theme=chartreuse-dark&show_icons=true&count_private=true)](https://github.com/jonhnatalima)
 
 ----------------------------
 
@@ -19,8 +19,8 @@ I still working on this README.md
 
 ----------------------------
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonhnatalima&theme=chartreuse-dark&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonhnatalima&theme=chartreuse-dark&layout=compact)](https://github.com/jonhnatalima)
 
 ----------------------------
 
-![Jonhnata's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jonhnatalima&theme=chartreuse-dark)
+[![Jonhnata's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jonhnatalima&theme=chartreuse-dark)](https://github.com/jonhnatalima)
