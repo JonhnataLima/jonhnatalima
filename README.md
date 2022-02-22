@@ -14,4 +14,5 @@ I still working on this README.md
 ----------------------------
 api/pin?username=jonhnatalima&repo=jonhnatalima
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonhnatalima&repo=jonhnatalima&show_owner=true)(https://github.com/jonhnatalima/jonhnatalima)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=jonhnatalima&repo=jonhnatalima
+&show_owner=true)](https://github.com/jonhnatalima/jonhnatalima)
