@@ -9,8 +9,9 @@ I still working on this README.md
 - How to reach me: ...
 - Pronouns: he/him
 
-![Jonhnata's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonhnatalima&theme=dark&show_icons=true)
+![Jonhnata's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonhnatalima&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true)
 
 ----------------------------
+api/pin?username=jonhnatalima&repo=jonhnatalima
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonhnatalima&repo=github-readme-stats)](https://github.com/jonhnatalima/jonhnatalima)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonhnatalima&repo=jonhnatalima&show_owner=true)(https://github.com/jonhnatalima/jonhnatalima)
