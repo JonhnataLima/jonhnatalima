@@ -50,22 +50,22 @@
     </p>
 
 ## GitHub Analytics
-
-<p>
-  <a href="https://github.com/jonhnatalima" target="_blank">
-    <img align="center"
-      src="https://github-readme-stats.vercel.app/apusername=jonhnatalima&theme=chartreuse-darshow_icons=true&count_private=true"
-    alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/jonhnatalima" target="_blank"
-    ><img align="center"
-      src="https://github-readme-stats.vercel.app/aptop-langs/?username=jonhnatalimtheme=chartreuse-dark&layout=compact"
-    alt="Most Used Languages"/>
-  </a>
-</p>
+<div>
+  <p>
+    <a href="https://github.com/jonhnatalima" target="_blank">
+      <img align="center"
+        src="https://github-readme-stats.vercel.app/  apusername=jonhnatalima&  theme=chartreuse-darshow_icons=true&count_private=true"
+      alt="GitHub Stats"/>
+    </a>
+    <a href="https://github.com/jonhnatalima" target="_blank"
+      ><img align="center"
+        src="https://github-readme-stats.vercel.app/aptop-langs/? username=jonhnatalimtheme=chartreuse-dark&layout=compact"
+      alt="Most Used Languages"/>
+    </a>
+  </p>
+</div>
 
 ## Repositories
-
 <p>
   <a href="https://github.com/jonhnatalima" target="_blank"
     ><img
