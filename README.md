@@ -13,7 +13,7 @@ I still working on this README.md
 
 ----------------------------
 
-![Readme Card][(https://github-readme-stats.vercel.app/api/pin/?username=jonhnatalima&repo=jonhnatalima&show_owner=true&theme=chartreuse-dark)(https://github.com/jonhnatalima/jonhnatalima)]
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonhnatalima&repo=jonhnatalima&show_owner=true&theme=chartreuse-dark)
 
 ----------------------------
 
@@ -21,4 +21,4 @@ I still working on this README.md
 
 ----------------------------
 
-[![Jonhnata's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jonhnatalima&theme=chartreuse-dark)](https://github.com/jonhnatalima/jonhnatalima)
+![Jonhnata's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jonhnatalima&theme=chartreuse-dark)
