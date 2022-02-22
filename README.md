@@ -7,7 +7,8 @@
 
 I still working on this README.md
 
-<p >
+<p> <img src="https://media0.giphy.com/media/TFUd6cS3rc4qcaS5T8/giphy.gif" ></p
+
 
 - I'm currently open for a working position as JavaScript Developer
 - I'm currently learning and improve my knowledges with JavaScrip, HTML, CSS...
