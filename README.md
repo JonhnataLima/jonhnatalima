@@ -1,13 +1,13 @@
 
+<a>
 ## Hey, 👋🏼
 ### I'm Jonhnata Lima!!
 
-
-
-
-I still working on this README.md
-
-<p> <img src="https://media0.giphy.com/media/TFUd6cS3rc4qcaS5T8/giphy.gif" width="100"></p
+I still working on this &lsquo;README.md&rsquo;...
+</a>
+<a>
+<p> <img src="https://media0.giphy.com/media/TFUd6cS3rc4qcaS5T8/giphy.gif" width="200"></p>
+</a>
 
 
 - I'm currently open for a working position as JavaScript Developer
