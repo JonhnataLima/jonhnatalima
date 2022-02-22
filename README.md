@@ -49,7 +49,7 @@
       </a>
     </p>
     <p>------------- Git statistics ----------------</p>
-    <div>
+    <p>
       <a href="https://github.com/jonhnatalima" target="_blank">
         <img align="center"
           src="https://github-readme-stats.vercel.app/api?username=jonhnatalima&theme=chartreuse-dark&show_icons=true&count_private=true"
@@ -60,17 +60,22 @@
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonhnatalima&theme=chartreuse-dark&layout=compact"
         alt="Most Used Languages"/>
       </a>
-    </div>
+    </p>
     <br />
     <br />
-    <h2>Repositories</h2>
+## Repositories
+    <p>
       <a href="https://github.com/jonhnatalima" target="_blank"
         ><img
           src="https://github-readme-stats.vercel.app/api/pin/?username=jonhnatalima&repo=countdown-timer&show_owner=true&theme=chartreuse-dark"
         alt="Repositories"/>
       </a>
+    </p>
+## Wakatime
+    <p>
       <a href="https://github.com/jonhnatalima" target="_blank"
         ><img
           src="https://github-readme-stats.vercel.app/api/wakatime?username=jonhnatalima&theme=chartreuse-dark"
         alt="Wakatime Stats"/>
       </a>
+    </p>
