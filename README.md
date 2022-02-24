@@ -1,19 +1,18 @@
-# Hey, 👋🏼
+# 👋🏼 <strong>Hey</strong>,
 <img width="250" alt="GIF" align="right" src="https://media0.giphy.com/media/TFUd6cS3rc4qcaS5T8/giphy.gif"/>
 
 ## I'm Jonhnata Lima!!
 
-<p style="color:orange;">I still working on this &ldquo;README.md&rdquo;...</p>
+<p style="color: orange">I still working on this &ldquo;README.md&rdquo;...</p>
 
-<ul>
-  <li>I'm currently open for a working position as JavaScript Developer</li>
-  <li> I'm currently learning and improve my knowledges with JavaScrip, HTML, CSS...</li>
-  <li>I'm looking to collaborate on...</li>
-  <li>I'm looking for help with...</li>
-  <li>Ask me about framework Scrum, Management 3.0, LeaInception...</li>
-  <li>How to reach me: ...</li>
-  <li>Pronouns: he/him</li>
-</ul>
+<p>I'm currently open for a working position as JavaScript Developer.</p>
+<p>Hire me and the team will have a  plus as Framework Scrum, Management 3.0 and LeanInception trainer.</p>
+<p>I'm currently learning and improve my knowledges with JavaScrip, HTML, CSS...</p>
+<p>Ask me about framework Scrum, Management 3.0, LeaInception...</p>
+<p>How to reach me: ...</p>
+<p>Pronouns: he/him</p>
+
+<br>
 
 ## Social Links
 
