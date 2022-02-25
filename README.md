@@ -1,8 +1,10 @@
 # 👋🏼 <strong>Hey</strong>,
 
-## I'm Jonhnata Lima!!
+## I'm Jonhnata Lima!! <img width="100" alt="GIF" align="right" src="https://media0.giphy.com/media/TFUd6cS3rc4qcaS5T8/giphy.gif"/>
+<br>
+<br>
 
-<p style="color: orange">I still working on this &ldquo;README.md&rdquo;...</p> <img width="100" alt="GIF" align="right" src="https://media0.giphy.com/media/TFUd6cS3rc4qcaS5T8/giphy.gif"/>
+<p style="color: orange">I still working on this &ldquo;README.md&rdquo;...</p> 
 <br>
 
 <p>I'm currently open for a working position as JavaScript Developer.</p>
