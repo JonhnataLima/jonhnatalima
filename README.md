@@ -17,56 +17,34 @@ I still <strong>working</strong> on this &ldquo;README.md&rdquo;...
 
 <p>I'm currently open for a working position as JavaScript Developer.</p>
 <p>Hire me and the team will have a  plus as Framework Scrum, Management 3.0 and LeanInception trainer.</p>
-<p>I'm currently learning and improve my knowledges with JavaScrip, HTML, CSS...</p>
+
 <p>Ask me about framework Scrum, Management 3.0, LeaInception...</p>
 <p>Pronouns: he/him</p>
 
+<br>
 
 ## Connect with me
 
 
 [![Twitter Profile](https://img.shields.io/twitter/url?color=%231DA1F2&label=%40JonhnataLima&logo=Twitter&logoColor=%231DA1F2&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FJonhnataLima)](https://twitter.com/intent/follow?screen_name=JonhnataLima)
 [![Instagram Profile](https://img.shields.io/badge/instagram-%20-orange?color=%23C13584&label=%40jonhnatalima&logo=Instagram&logoColor=%23F56040&style=for-the-badge)](https://www.instagram.com/jonhnatalima/)
-[![Instagram Profile](https://img.shields.io/badge/linkedin-%20-blue?&label=LinkedIn&logo=linkedin&logoColor=FFFFFF&style=for-the-badge)](https://www.linkedin.com/in/jonhnata-lima/)
-[![Instagram Profile](https://img.shields.io/badge/linkedin-%20-blue?&label=in/jonhnata-lima&logo=linkedin&logoColor=FFFFFF&style=for-the-badge)](https://www.linkedin.com/in/jonhnata-lima/)
-[![Instagram Profile](https://img.shields.io/badge/linkedin-%20-blue?&label=in/jonhnata-lima&logo=linkedin&logoColor=2867B2&style=for-the-badge)](https://www.linkedin.com/in/jonhnata-lima/)
+[![Instagram Profile](https://img.shields.io/badge/linkedin-%20-blue?&label=in/jonhnata-lima&logo=linkedin&logoColor=2867B2&style=for-the-badge&color=%23FFFFFF)](https://www.linkedin.com/in/jonhnata-lima/)
 
-[![Twitter Profile](https://img.shields.io/twitter/url?color=%231DA1F2&label=%40JonhnataLima&logo=Twitter&logoColor=%231DA1F2&style=plastic&url=https%3A%2F%2Ftwitter.com%2FJonhnataLima)](https://twitter.com/intent/follow?screen_name=JonhnataLima)
-[![Instagram Profile](https://img.shields.io/badge/instagram-%20-orange?color=%23C13584&label=%40jonhnatalima&logo=Instagram&logoColor=%23F56040&style=plastic)](https://www.instagram.com/jonhnatalima/)
-[![Instagram Profile](https://img.shields.io/badge/linkedin-%20-blue?&label=LinkedIn&logo=linkedin&logoColor=FFFFFF&style=plastic)](https://www.linkedin.com/in/jonhnata-lima/)
+<br>
 
+## Currently Learning
 
+I'm currently learning and improve my knowledges with JavaScrip, HTML, CSS...
+
+<br>
 
 ## GitHub Analytics
 
-<p>
-  <a href="https://github.com/jonhnatalima" target="_blank">
-    <img align="center"
-      src="https://github-readme-stats.vercel.app/api/?username=jonhnatalima&theme=chartreuse-dark&show_icons=true&count_private=true"
-    alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/jonhnatalima" target="_blank"
-    ><img align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonhnatalima&theme=chartreuse-dark&layout=compact"
-    alt="Most Used Languages"/>
-  </a>
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jonhnatalima&theme=chartreuse-dark&show_icons=true&count_private=true)](https://github.com/jonhnatalima) 
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonhnatalima&theme=chartreuse-dark&layout=compact)](https://github.com/jonhnatalima)
+
+<br>
 
 ## Repositories
-<p>
-  <a href="https://github.com/jonhnatalima/countdown-timer" target="_blank"
-    ><img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=jonhnatalima&repo=countdown-timer&show_owner=true&theme=chartreuse-dark"
-    alt="Repositories"/>
-  </a>
-</p>
 
-## Wakatime
-
-<p>
-  <a href="https://github.com/jonhnatalima" target="_blank"
-    ><img
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=jonhnatalima&theme=chartreuse-dark"
-    alt="Wakatime Stats"/>
-  </a>
-</p>
+[![Countdown Repository](https://github-readme-stats.vercel.app/api/pin/?username=jonhnatalima&repo=countdown-timer&show_owner=true&theme=chartreuse-dark)](https://github.com/jonhnatalima/countdown-timer)
