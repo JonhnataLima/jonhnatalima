@@ -1,6 +1,13 @@
 # 👋🏼 <strong>Hey</strong>,
 
 ## I'm Jonhnata Lima!! <img width="100" alt="GIF" align="right" src="https://media0.giphy.com/media/TFUd6cS3rc4qcaS5T8/giphy.gif"/>
+
+<p>
+
+[![GitHub Followers](https://img.shields.io/github/followers/JonhnataLima?color=%23adadad&label=GitHub%20Followers&logo=GitHub&logoColor=%23f5f5f5&style=flat-square)](https://github.com/JonhnataLima)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=JonhnataLima&color=adadad&style=flat-square&label=Profile+Views)](https://github.com/JonhnataLima)
+</p>
 <br>
 <br>
 
@@ -20,12 +27,7 @@
 
 <p align="left">
   <a href="https://twitter.com/intent/follow?screen_name=JonhnataLima" target="_blank">
-    <img align="center" src="https://img.shields.io/twitter/follow/JonhnataLima?color=%2300acee&logo=Twitter&style=flat-square" alt="Twitter"/>
-  </a>
-
-
-  <a href="https://github.com/jonhnatalima" target="_blank">
-    <img align="center" src="https://img.shields.io/github/followers/jonhnatalima?color=%23e6e6e6&label=Jonhnata%27s%20GitHub&logo=GitHub&style=flat-square" alt="GitHub"/>
+    <img align="center" src="https://img.shields.io/twitter/follow/JonhnataLima?color=%231DA1F2&logo=Twitter&logoColor=%231DA1F2&style=flat-square" alt="Twitter"/>
   </a>
 
   <a><img align="center" src=""/></a>
