@@ -17,7 +17,6 @@ I still <strong>working</strong> on this &ldquo;README.md&rdquo;...
 
 <p>I'm currently open for a working position as JavaScript Developer.</p>
 <p>Hire me and the team will have a  plus as Framework Scrum, Management 3.0 and LeanInception trainer.</p>
-
 <p>Ask me about framework Scrum, Management 3.0, LeaInception...</p>
 <p>Pronouns: he/him</p>
 
