@@ -1,9 +1,9 @@
 # 👋🏼 <strong>Hey</strong>,
-<img width="250" alt="GIF" align="right" src="https://media0.giphy.com/media/TFUd6cS3rc4qcaS5T8/giphy.gif"/>
 
 ## I'm Jonhnata Lima!!
 
-<p style="color: orange">I still working on this &ldquo;README.md&rdquo;...</p>
+<p style="color: orange">I still working on this &ldquo;README.md&rdquo;...</p> <img width="100" alt="GIF" align="right" src="https://media0.giphy.com/media/TFUd6cS3rc4qcaS5T8/giphy.gif"/>
+<br>
 
 <p>I'm currently open for a working position as JavaScript Developer.</p>
 <p>Hire me and the team will have a  plus as Framework Scrum, Management 3.0 and LeanInception trainer.</p>
@@ -18,11 +18,15 @@
 
 <p align="left">
   <a href="https://twitter.com/intent/follow?screen_name=JonhnataLima" target="_blank">
-    <img align="center" src="https://img.shields.io/twitter/follow/JonhnataLima?label=Follow" alt="Twitter"/>
+    <img align="center" src="https://img.shields.io/twitter/follow/JonhnataLima?color=%2300acee&logo=Twitter&style=flat-square" alt="Twitter"/>
   </a>
+
+
   <a href="https://github.com/jonhnatalima" target="_blank">
-    <img align="center" src="https://img.shields.io/github/followers/jonhnatalima?style=social" alt="GitHub"/>
+    <img align="center" src="https://img.shields.io/github/followers/jonhnatalima?color=%23e6e6e6&label=Jonhnata%27s%20GitHub&logo=GitHub&style=flat-square" alt="GitHub"/>
   </a>
+
+  <a><img align="center" src=""/></a>
 </p>
     <p align="left">
       <a href="https://twitter.com/JonhnataLima" target="_blank">
