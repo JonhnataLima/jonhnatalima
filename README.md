@@ -3,10 +3,8 @@
 ## I'm Jonhnata Lima!! <img width="100" alt="GIF" align="right" src="https://media0.giphy.com/media/TFUd6cS3rc4qcaS5T8/giphy.gif"/>
 
 
-[![GitHub Followers](https://img.shields.io/github/followers/JonhnataLima?color=%23f5f5f5&label=GitHub%20Followers&logo=GitHub&logoColor=%23f5f5f5&style=flat-square)](https://github.com/JonhnataLima)
-[![GitHub Followers](https://img.shields.io/github/followers/JonhnataLima?color=%23f5f5f5&label=GitHub%20Followers&logo=GitHub&logoColor=%23f5f5f5&style=for-the-badge)](https://github.com/JonhnataLima)
+[![GitHub Followers](https://img.shields.io/github/followers/JonhnataLima?color=%23f5f5f5&label=GitHub%20Followers&logo=GitHub&logoColor=%23f5f5f5)](https://github.com/JonhnataLima)
 [![Profile Views](https://img.shields.io/jsdelivr/gh/hd/JonhnataLima/jonhnatalima?color=%23f5f5f5&label=Views&logo=GitHub&logoColor=%23f5f5f5)](https://github.com/JonhnataLima)
-[![Profile Views](https://img.shields.io/jsdelivr/gh/hd/JonhnataLima/jonhnatalima?color=%23f5f5f5&label=Views&logo=GitHub&logoColor=%23f5f5f5&style=flat-square)](https://github.com/JonhnataLima)
 
 
 <br>
