@@ -28,10 +28,11 @@
 [![Instagram Profile](https://img.shields.io/badge/instagram-%20-orange?color=%23C13584&label=%40jonhnatalima&logo=Instagram&logoColor=%23F56040&style=plastic)](https://www.instagram.com/jonhnatalima/)
 [![Instagram Profile](https://img.shields.io/badge/linkedin-%20-blue?&label=LinkedIn&logo=linkedin&logoColor=FFFFFF&style=plastic)](https://www.linkedin.com/in/jonhnata-lima/)
 [![Instagram Profile](https://img.shields.io/badge/linkedin-Jonhnata%20Lima-blue?&label=LinkedIn&logo=linkedin&logoColor=FFFFFF&style=plastic)](https://www.linkedin.com/in/jonhnata-lima/)
+
 [Instagram Profile](https://www.linkedin.com/in/jonhnata-lima/)
 
 <p>
-<a target="_blank" href="https://www.linkedin.com/in/jonhnata-lima/"><img src="https://img.shields.io/badge/linkedin-Jonhnata%20Lima-blue?&label=LinkedIn&logo=linkedin&logoColor=FFFFFF&style=plastic" alt="Instagram Profile"/></a>
+<a target="\_blank" href="https://www.linkedin.com/in/jonhnata-lima/"><img src="https://img.shields.io/badge/linkedin-Jonhnata%20Lima-blue?&label=LinkedIn&logo=linkedin&logoColor=FFFFFF&style=plastic" alt="Instagram Profile"/></a>
 </p>
 
 
