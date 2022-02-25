@@ -2,15 +2,13 @@
 
 ## I'm Jonhnata Lima!! <img width="100" alt="GIF" align="right" src="https://media0.giphy.com/media/TFUd6cS3rc4qcaS5T8/giphy.gif"/>
 
-<p>
 
-[![GitHub Followers](https://img.shields.io/github/followers/JonhnataLima?color=%23adadad&label=GitHub%20Followers&logo=GitHub&logoColor=%23f5f5f5&style=flat-square)](https://github.com/JonhnataLima)
+[![GitHub Followers](https://img.shields.io/github/followers/JonhnataLima?color=%23f5f5f5&label=GitHub%20Followers&logo=GitHub&logoColor=%23f5f5f5&style=flat-square)](https://github.com/JonhnataLima)
+[![Profile Views](https://komarev.com/ghpvc/?username=JonhnataLima&color=adadad&style=flat-square&label=Views)](https://github.com/JonhnataLima)
+[![Profile Views](https://img.shields.io/jsdelivr/gh/hy/JonhnataLima/jonhnatalima?color=%23f5f5f5&label=Views&logo=GitHub&logoColor=%23f5f5f5)](https://github.com/JonhnataLima)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=JonhnataLima&color=adadad&style=flat-square&label=Profile+Views)](https://github.com/JonhnataLima)
-</p>
+
 <br>
-<br>
-
 <p style="color: orange">I still working on this &ldquo;README.md&rdquo;...</p> 
 <br>
 
