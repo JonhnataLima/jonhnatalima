@@ -7,7 +7,6 @@
 [![Profile Views](https://img.shields.io/jsdelivr/gh/hd/JonhnataLima/jonhnatalima?color=%23f5f5f5&label=Views&logo=GitHub&logoColor=%23f5f5f5)](https://github.com/JonhnataLima)
 
 
-<img alt="Twitter URL" src="">
 <br>
 <p style="color: orange">I still working on this &ldquo;README.md&rdquo;...</p> 
 <br>
@@ -24,20 +23,19 @@
 ## Social Links
 
 
+[![Twitter Profile](https://img.shields.io/twitter/url?color=%231DA1F2&label=%40JonhnataLima&logo=Twitter&logoColor=%231DA1F2&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FJonhnataLima)](https://twitter.com/intent/follow?screen_name=JonhnataLima)
+[![Instagram Profile](https://img.shields.io/badge/instagram-%20-orange?color=%23C13584&label=%40jonhnatalima&logo=Instagram&logoColor=%23F56040&style=for-the-badge)](https://www.instagram.com/jonhnatalima/)
+[![Instagram Profile](https://img.shields.io/badge/linkedin-%20-blue?&label=LinkedIn&logo=linkedin&logoColor=FFFFFF&style=for-the-badge)](https://www.linkedin.com/in/jonhnata-lima/)
+[![Instagram Profile](https://img.shields.io/badge/linkedin-Jonhnata%20Lima-blue?&label=LinkedIn&logo=linkedin&logoColor=FFFFFF&style=for-the-badge)](https://www.linkedin.com/in/jonhnata-lima/)
+
 [![Twitter Profile](https://img.shields.io/twitter/url?color=%231DA1F2&label=%40JonhnataLima&logo=Twitter&logoColor=%231DA1F2&style=plastic&url=https%3A%2F%2Ftwitter.com%2FJonhnataLima)](https://twitter.com/intent/follow?screen_name=JonhnataLima)
 [![Instagram Profile](https://img.shields.io/badge/instagram-%20-orange?color=%23C13584&label=%40jonhnatalima&logo=Instagram&logoColor=%23F56040&style=plastic)](https://www.instagram.com/jonhnatalima/)
 [![Instagram Profile](https://img.shields.io/badge/linkedin-%20-blue?&label=LinkedIn&logo=linkedin&logoColor=FFFFFF&style=plastic)](https://www.linkedin.com/in/jonhnata-lima/)
 [![Instagram Profile](https://img.shields.io/badge/linkedin-Jonhnata%20Lima-blue?&label=LinkedIn&logo=linkedin&logoColor=FFFFFF&style=plastic)](https://www.linkedin.com/in/jonhnata-lima/)
 
-[Instagram Profile](https://www.linkedin.com/in/jonhnata-lima/)
-
-<p>
-<a target="\_blank" href="https://www.linkedin.com/in/jonhnata-lima/"><img src="https://img.shields.io/badge/linkedin-Jonhnata%20Lima-blue?&label=LinkedIn&logo=linkedin&logoColor=FFFFFF&style=plastic" alt="Instagram Profile"/></a>
-</p>
-
-
 
 ## GitHub Analytics
+
 <p>
   <a href="https://github.com/jonhnatalima" target="_blank">
     <img align="center"
