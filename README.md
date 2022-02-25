@@ -4,8 +4,7 @@
 
 
 [![GitHub Followers](https://img.shields.io/github/followers/JonhnataLima?color=%23f5f5f5&label=GitHub%20Followers&logo=GitHub&logoColor=%23f5f5f5&style=flat-square)](https://github.com/JonhnataLima)
-[![Profile Views](https://komarev.com/ghpvc/?username=JonhnataLima&color=adadad&style=flat-square&label=Views)](https://github.com/JonhnataLima)
-[![Profile Views](https://img.shields.io/jsdelivr/gh/hy/JonhnataLima/jonhnatalima?color=%23f5f5f5&label=Views&logo=GitHub&logoColor=%23f5f5f5)](https://github.com/JonhnataLima)
+[![Profile Views](https://img.shields.io/jsdelivr/gh/hd/JonhnataLima/jonhnatalima?color=%23f5f5f5&label=Views&logo=GitHub&logoColor=%23f5f5f5)](https://github.com/JonhnataLima)
 
 
 <br>
