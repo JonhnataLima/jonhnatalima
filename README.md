@@ -4,7 +4,9 @@
 
 
 [![GitHub Followers](https://img.shields.io/github/followers/JonhnataLima?color=%23f5f5f5&label=GitHub%20Followers&logo=GitHub&logoColor=%23f5f5f5&style=flat-square)](https://github.com/JonhnataLima)
+[![GitHub Followers](https://img.shields.io/github/followers/JonhnataLima?color=%23f5f5f5&label=GitHub%20Followers&logo=GitHub&logoColor=%23f5f5f5&style=for-the-badge)](https://github.com/JonhnataLima)
 [![Profile Views](https://img.shields.io/jsdelivr/gh/hd/JonhnataLima/jonhnatalima?color=%23f5f5f5&label=Views&logo=GitHub&logoColor=%23f5f5f5)](https://github.com/JonhnataLima)
+[![Profile Views](https://img.shields.io/jsdelivr/gh/hd/JonhnataLima/jonhnatalima?color=%23f5f5f5&label=Views&logo=GitHub&logoColor=%23f5f5f5&style=flat-square)](https://github.com/JonhnataLima)
 
 
 <br>
@@ -24,9 +26,8 @@
 
 <p align="left">
   <a href="https://twitter.com/intent/follow?screen_name=JonhnataLima" target="_blank">
-    <img align="center" src="https://img.shields.io/twitter/follow/JonhnataLima?color=%231DA1F2&logo=Twitter&logoColor=%231DA1F2&style=flat-square" alt="Twitter"/>
+    <img align="center" src="https://img.shields.io/twitter/follow/JonhnataLima?color=%231DA1F2&label=%40JonhnataLima&logo=Twitter&logoColor=%231DA1F2&style=flat-square" alt="Twitter Follow"/>
   </a>
-
   <a><img align="center" src=""/></a>
 </p>
     <p align="left">
