@@ -24,7 +24,7 @@
 ## Social Links
 
 
-[![Twitter Profile](https://img.shields.io/twitter/url?color=%231DA1F2&label=%40JonhnataLima&logo=Twitter&logoColor=%231DA1F2&style=plastic&url=https%3A%2F%2Ftwitter.com%2FJonhnataLima)](https://twitter.com/intent/follow?screen_name=JonhnataLima)
+[![Twitter Profile](https://img.shields.io/twitter/url?color=%231DA1F2&label=%40JonhnataLima&logo=Twitter&logoColor=%231DA1F2&style=plastic&url=https%3A%2F%2Ftwitter.com%2FJonhnataLima)](https://twitter.com/intent/follow?screen_name=JonhnataLima){:target="\_blank"}
 [![Instagram Profile](https://img.shields.io/badge/instagram-%20-orange?color=%23C13584&label=%40jonhnatalima&logo=Instagram&logoColor=%23F56040&style=plastic)](https://www.instagram.com/jonhnatalima/)
 [![Instagram Profile](https://img.shields.io/badge/linkedin-%20-blue?&label=LinkedIn&logo=linkedin&logoColor=FFFFFF&style=plastic)](https://www.linkedin.com/in/jonhnata-lima/)
 [![Instagram Profile](https://img.shields.io/badge/linkedin-Jonhnata%20Lima-blue?&label=LinkedIn&logo=linkedin&logoColor=FFFFFF&style=plastic)](https://www.linkedin.com/in/jonhnata-lima/)
